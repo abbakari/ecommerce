@@ -1,0 +1,19 @@
+{
+  "name": "ecommercesystem",
+  "version": "1.0.0",
+  "description": "new ecommerce project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbakari/ecommerce.git"
+  },
+  "author": "amary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abbakari/ecommerce/issues"
+  },
+  "homepage": "https://github.com/abbakari/ecommerce#readme"
+}
